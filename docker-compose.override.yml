@@ -1,0 +1,4 @@
+services:
+  dukaan-mitra:
+    environment:
+      DATABASE_PATH: /app/data/dukaan_mitra.db

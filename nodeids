@@ -1,0 +1,10 @@
+[
+  "backend/tests/test_analytics.py::test_low_stock_ignores_new_item_with_stock",
+  "backend/tests/test_analytics.py::test_low_stock_stockout_is_flagged",
+  "backend/tests/test_analytics.py::test_percent_change_zero_baseline",
+  "backend/tests/test_intents.py::test_hinglish_multi_sale",
+  "backend/tests/test_intents.py::test_hinglish_stock_query",
+  "backend/tests/test_intents.py::test_regional_code_mixed_sale",
+  "backend/tests/test_reorder.py::test_reorder_never_negative",
+  "backend/tests/test_reorder.py::test_reorder_rounds_to_pack_size"
+]
